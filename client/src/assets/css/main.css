@@ -1,0 +1,38 @@
+.scatter-chart circle{
+    fill-opacity: 0.3;
+    stroke: #333333;
+    stroke-width: 1px;
+    stroke-opacity: 0.3;
+}
+
+
+.force-direct .hyper_node{
+     fill-opacity: 0.5;
+}
+.force-direct .vertex_node{
+     fill-opacity: 0.5;
+}
+.force-direct line{
+    stroke-width: 0.5;
+    stroke: #cccccc;
+    stroke-opacity: 0.5;
+}
+
+.hot-chart rect{
+    stroke-width:0;
+    stroke:#ffffff;
+}
+
+.pattern-comparator .solidArc{
+    stroke: #ffffff;
+    stroke-width:0.5;
+}
+
+.pattern-comparator2 .solidArc{
+    stroke: #ffffff;
+    stroke-width:0.5;
+}
+
+/*.force-direct .node-label:hover {*/
+/*    visibility: visible;*/
+/*}*/
